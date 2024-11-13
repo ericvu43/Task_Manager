@@ -11,8 +11,6 @@ https://icon-icons.com/
 
 
 
-Users Guide
-
 Adding Tasks
 To add tasks, simply:
 1.	Click “Add Task” Button
