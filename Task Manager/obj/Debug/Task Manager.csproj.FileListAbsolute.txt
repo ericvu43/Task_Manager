@@ -1,0 +1,12 @@
+C:\Users\ericv\OneDrive\Desktop\A290 Class\Task Manager\Task Manager\bin\Debug\Task Manager.exe.config
+C:\Users\ericv\OneDrive\Desktop\A290 Class\Task Manager\Task Manager\bin\Debug\Task Manager.exe
+C:\Users\ericv\OneDrive\Desktop\A290 Class\Task Manager\Task Manager\bin\Debug\Task Manager.pdb
+C:\Users\ericv\OneDrive\Desktop\A290 Class\Task Manager\Task Manager\obj\Debug\Task Manager.csproj.AssemblyReference.cache
+C:\Users\ericv\OneDrive\Desktop\A290 Class\Task Manager\Task Manager\obj\Debug\Task_Manager.Properties.Resources.resources
+C:\Users\ericv\OneDrive\Desktop\A290 Class\Task Manager\Task Manager\obj\Debug\Task Manager.csproj.GenerateResource.cache
+C:\Users\ericv\OneDrive\Desktop\A290 Class\Task Manager\Task Manager\obj\Debug\Task Manager.csproj.CoreCompileInputs.cache
+C:\Users\ericv\OneDrive\Desktop\A290 Class\Task Manager\Task Manager\obj\Debug\Task Manager.exe
+C:\Users\ericv\OneDrive\Desktop\A290 Class\Task Manager\Task Manager\obj\Debug\Task Manager.pdb
+C:\Users\ericv\OneDrive\Desktop\A290 Class\Task Manager\Task Manager\obj\Debug\Task_Manager.FrmTasks.resources
+C:\Users\ericv\OneDrive\Desktop\A290 Class\Task Manager\Task Manager\obj\Debug\Task_Manager.FrmAddTasks.resources
+C:\Users\ericv\OneDrive\Desktop\A290 Class\Task Manager\Task Manager\obj\Debug\Task_Manager.FrmEditTask.resources
